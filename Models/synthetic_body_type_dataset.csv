@@ -1,0 +1,1001 @@
+Age,Gender,Height,Weight,Activity Level,Goal,Body Type
+46,Male,164,116,Sedentary,Weight Loss,Overweight
+36,Male,172,119,Moderately active,Weight Loss,Overweight
+57,Female,173,47,Lightly active,Weight Loss,Overweight
+41,Female,193,74,Lightly active,Muscle Gain,Fit
+38,Female,182,102,Lightly active,Weight Loss,Overweight
+42,Female,198,103,Moderately active,Muscle Gain,Overweight
+45,Female,165,59,Lightly active,Muscle Gain,Overweight
+20,Male,186,95,Moderately active,Weight Loss,Overweight
+56,Male,167,48,Sedentary,Muscle Gain,Overweight
+26,Female,175,97,Lightly active,Maintenance,Overweight
+24,Female,193,52,Moderately active,Maintenance,Underweight
+34,Female,185,94,Very active,Muscle Gain,Overweight
+23,Female,191,48,Lightly active,Weight Loss,Overweight
+35,Male,175,88,Lightly active,Muscle Gain,Overweight
+53,Female,163,92,Moderately active,Muscle Gain,Overweight
+57,Male,170,97,Very active,Muscle Gain,Overweight
+58,Male,178,59,Sedentary,Weight Loss,Overweight
+24,Male,158,45,Very active,Maintenance,Underweight
+34,Male,157,79,Moderately active,Weight Loss,Fit
+22,Male,191,85,Very active,Maintenance,Overweight
+25,Male,161,78,Sedentary,Maintenance,Overweight
+41,Male,186,88,Very active,Muscle Gain,Overweight
+52,Male,150,91,Lightly active,Maintenance,Overweight
+22,Male,175,58,Moderately active,Maintenance,Underweight
+32,Male,164,86,Very active,Weight Loss,Overweight
+49,Male,188,96,Sedentary,Muscle Gain,Overweight
+40,Male,188,59,Moderately active,Weight Loss,Underweight
+30,Female,181,115,Moderately active,Maintenance,Overweight
+45,Female,151,86,Sedentary,Muscle Gain,Overweight
+23,Male,177,72,Very active,Muscle Gain,Overweight
+28,Female,177,106,Sedentary,Weight Loss,Overweight
+44,Male,162,47,Moderately active,Muscle Gain,Underweight
+44,Female,158,106,Sedentary,Weight Loss,Overweight
+59,Male,193,68,Moderately active,Maintenance,Fit
+49,Female,181,96,Sedentary,Muscle Gain,Overweight
+29,Male,188,46,Moderately active,Weight Loss,Underweight
+34,Male,198,46,Lightly active,Muscle Gain,Overweight
+54,Male,181,45,Moderately active,Muscle Gain,Underweight
+43,Female,181,114,Very active,Maintenance,Overweight
+28,Female,166,82,Very active,Weight Loss,Overweight
+51,Female,155,55,Moderately active,Weight Loss,Underweight
+23,Male,165,47,Very active,Maintenance,Underweight
+36,Female,175,111,Moderately active,Maintenance,Overweight
+49,Female,156,96,Sedentary,Weight Loss,Overweight
+56,Female,167,45,Moderately active,Weight Loss,Underweight
+40,Male,180,86,Moderately active,Maintenance,Overweight
+33,Female,175,104,Sedentary,Muscle Gain,Overweight
+29,Male,154,81,Very active,Maintenance,Overweight
+26,Male,190,63,Very active,Maintenance,Overweight
+41,Female,182,68,Very active,Maintenance,Overweight
+25,Male,185,82,Very active,Muscle Gain,Overweight
+42,Male,184,69,Sedentary,Muscle Gain,Overweight
+35,Female,151,98,Moderately active,Weight Loss,Overweight
+53,Male,182,112,Sedentary,Muscle Gain,Overweight
+37,Male,157,51,Moderately active,Weight Loss,Underweight
+50,Female,197,103,Moderately active,Muscle Gain,Overweight
+39,Male,195,74,Lightly active,Muscle Gain,Fit
+25,Male,176,71,Lightly active,Weight Loss,Fit
+50,Female,177,108,Sedentary,Weight Loss,Overweight
+36,Female,153,79,Very active,Weight Loss,Overweight
+34,Female,193,74,Sedentary,Muscle Gain,Overweight
+23,Male,184,81,Very active,Weight Loss,Overweight
+48,Male,184,104,Sedentary,Maintenance,Overweight
+38,Male,181,77,Very active,Maintenance,Overweight
+35,Female,174,98,Lightly active,Maintenance,Overweight
+41,Female,199,76,Moderately active,Muscle Gain,Fit
+19,Male,176,46,Lightly active,Weight Loss,Overweight
+50,Female,158,87,Lightly active,Maintenance,Overweight
+59,Male,175,94,Sedentary,Weight Loss,Overweight
+24,Female,185,89,Very active,Weight Loss,Overweight
+33,Female,163,59,Very active,Muscle Gain,Underweight
+49,Female,172,107,Lightly active,Maintenance,Overweight
+39,Male,171,93,Very active,Muscle Gain,Overweight
+32,Female,192,104,Sedentary,Weight Loss,Overweight
+22,Female,188,112,Lightly active,Weight Loss,Overweight
+47,Female,196,99,Very active,Weight Loss,Overweight
+59,Female,179,63,Sedentary,Maintenance,Overweight
+45,Male,175,106,Moderately active,Maintenance,Overweight
+29,Male,150,102,Lightly active,Weight Loss,Overweight
+51,Male,181,92,Sedentary,Weight Loss,Overweight
+18,Male,165,105,Moderately active,Maintenance,Overweight
+39,Male,178,111,Very active,Muscle Gain,Overweight
+54,Female,171,101,Sedentary,Muscle Gain,Overweight
+22,Female,196,106,Very active,Weight Loss,Overweight
+33,Female,175,92,Sedentary,Maintenance,Overweight
+50,Female,179,67,Lightly active,Muscle Gain,Fit
+22,Female,185,78,Very active,Maintenance,Overweight
+36,Female,181,45,Very active,Weight Loss,Underweight
+21,Male,165,68,Very active,Maintenance,Overweight
+45,Female,181,68,Very active,Muscle Gain,Overweight
+50,Male,182,105,Moderately active,Maintenance,Overweight
+29,Male,152,109,Sedentary,Muscle Gain,Overweight
+46,Male,162,56,Moderately active,Muscle Gain,Underweight
+52,Female,172,52,Sedentary,Muscle Gain,Overweight
+43,Female,183,51,Very active,Muscle Gain,Underweight
+28,Male,178,80,Sedentary,Weight Loss,Overweight
+53,Male,159,117,Very active,Maintenance,Overweight
+52,Male,197,80,Lightly active,Weight Loss,Fit
+49,Male,173,67,Lightly active,Weight Loss,Fit
+30,Female,172,74,Sedentary,Weight Loss,Overweight
+37,Female,197,57,Moderately active,Maintenance,Underweight
+53,Male,161,105,Sedentary,Maintenance,Overweight
+26,Female,156,72,Lightly active,Maintenance,Fit
+36,Female,196,60,Sedentary,Weight Loss,Overweight
+29,Male,174,96,Moderately active,Weight Loss,Overweight
+40,Female,165,101,Moderately active,Weight Loss,Overweight
+59,Male,188,58,Moderately active,Muscle Gain,Underweight
+52,Male,172,119,Lightly active,Maintenance,Overweight
+26,Female,159,102,Very active,Weight Loss,Overweight
+55,Male,156,90,Sedentary,Muscle Gain,Overweight
+44,Male,151,49,Sedentary,Weight Loss,Overweight
+36,Female,157,109,Lightly active,Weight Loss,Overweight
+24,Male,174,89,Very active,Muscle Gain,Overweight
+48,Female,168,105,Very active,Muscle Gain,Overweight
+44,Male,159,63,Moderately active,Muscle Gain,Fit
+30,Male,199,102,Very active,Weight Loss,Overweight
+58,Male,188,45,Moderately active,Weight Loss,Underweight
+42,Female,182,82,Sedentary,Muscle Gain,Overweight
+49,Female,194,105,Moderately active,Weight Loss,Overweight
+38,Female,160,80,Moderately active,Maintenance,Fit
+35,Female,196,93,Lightly active,Maintenance,Overweight
+18,Male,152,60,Moderately active,Weight Loss,Fit
+29,Male,159,60,Very active,Muscle Gain,Overweight
+41,Female,177,52,Lightly active,Muscle Gain,Overweight
+45,Female,177,85,Very active,Maintenance,Overweight
+34,Female,158,77,Sedentary,Weight Loss,Overweight
+46,Female,162,90,Moderately active,Weight Loss,Overweight
+35,Female,154,91,Sedentary,Muscle Gain,Overweight
+47,Female,199,49,Moderately active,Weight Loss,Underweight
+18,Female,167,93,Moderately active,Weight Loss,Overweight
+42,Female,171,103,Moderately active,Weight Loss,Overweight
+50,Male,183,45,Sedentary,Maintenance,Overweight
+45,Female,166,113,Moderately active,Weight Loss,Overweight
+20,Female,172,97,Sedentary,Muscle Gain,Overweight
+36,Female,166,117,Lightly active,Weight Loss,Overweight
+30,Male,153,106,Sedentary,Weight Loss,Overweight
+49,Female,183,116,Moderately active,Muscle Gain,Overweight
+51,Female,152,94,Very active,Weight Loss,Overweight
+22,Female,179,101,Sedentary,Maintenance,Overweight
+40,Male,164,58,Lightly active,Maintenance,Overweight
+56,Male,187,108,Very active,Muscle Gain,Overweight
+51,Female,167,74,Moderately active,Maintenance,Fit
+51,Male,187,74,Moderately active,Muscle Gain,Fit
+34,Male,154,73,Very active,Muscle Gain,Overweight
+34,Female,159,61,Very active,Weight Loss,Overweight
+23,Female,151,87,Very active,Maintenance,Overweight
+40,Male,165,119,Lightly active,Weight Loss,Overweight
+49,Male,152,71,Sedentary,Muscle Gain,Overweight
+36,Male,170,49,Lightly active,Muscle Gain,Overweight
+39,Male,170,114,Sedentary,Weight Loss,Overweight
+29,Male,175,90,Lightly active,Weight Loss,Overweight
+43,Female,194,71,Sedentary,Muscle Gain,Overweight
+39,Male,196,100,Lightly active,Maintenance,Overweight
+34,Male,175,80,Sedentary,Weight Loss,Overweight
+32,Male,196,100,Lightly active,Muscle Gain,Overweight
+45,Female,172,46,Sedentary,Muscle Gain,Overweight
+24,Female,152,67,Lightly active,Maintenance,Fit
+35,Male,187,59,Very active,Weight Loss,Underweight
+54,Male,177,118,Moderately active,Weight Loss,Overweight
+56,Male,171,88,Sedentary,Weight Loss,Overweight
+37,Male,174,112,Lightly active,Maintenance,Overweight
+35,Male,196,78,Moderately active,Weight Loss,Fit
+36,Female,191,85,Sedentary,Muscle Gain,Overweight
+43,Female,183,103,Very active,Maintenance,Overweight
+23,Male,186,77,Sedentary,Muscle Gain,Overweight
+23,Male,155,48,Lightly active,Maintenance,Overweight
+47,Female,180,68,Moderately active,Weight Loss,Fit
+20,Male,180,84,Sedentary,Maintenance,Overweight
+19,Female,169,119,Very active,Maintenance,Overweight
+47,Female,187,95,Lightly active,Weight Loss,Overweight
+32,Female,160,52,Lightly active,Maintenance,Overweight
+22,Male,155,70,Lightly active,Maintenance,Fit
+50,Female,169,56,Moderately active,Weight Loss,Underweight
+31,Female,187,81,Lightly active,Maintenance,Overweight
+53,Male,162,47,Sedentary,Muscle Gain,Overweight
+27,Female,154,67,Lightly active,Muscle Gain,Fit
+57,Male,151,109,Moderately active,Weight Loss,Overweight
+34,Male,158,119,Moderately active,Muscle Gain,Overweight
+52,Male,179,93,Sedentary,Muscle Gain,Overweight
+31,Female,160,53,Lightly active,Maintenance,Overweight
+18,Male,189,108,Lightly active,Weight Loss,Overweight
+28,Female,190,58,Very active,Muscle Gain,Underweight
+38,Male,186,49,Moderately active,Maintenance,Underweight
+43,Female,153,86,Sedentary,Muscle Gain,Overweight
+25,Female,188,58,Very active,Maintenance,Underweight
+55,Male,182,67,Moderately active,Maintenance,Fit
+42,Male,166,110,Lightly active,Weight Loss,Overweight
+57,Female,188,95,Lightly active,Muscle Gain,Overweight
+24,Male,157,86,Very active,Maintenance,Overweight
+46,Male,182,71,Very active,Weight Loss,Overweight
+50,Female,186,71,Moderately active,Weight Loss,Fit
+21,Female,171,110,Lightly active,Weight Loss,Overweight
+27,Male,182,82,Sedentary,Maintenance,Overweight
+53,Male,194,96,Very active,Maintenance,Overweight
+25,Male,154,73,Moderately active,Weight Loss,Fit
+44,Female,180,80,Very active,Muscle Gain,Overweight
+44,Male,154,64,Moderately active,Muscle Gain,Fit
+57,Female,187,50,Very active,Maintenance,Underweight
+43,Male,195,56,Lightly active,Weight Loss,Overweight
+35,Female,174,104,Moderately active,Weight Loss,Overweight
+54,Female,157,75,Lightly active,Weight Loss,Fit
+46,Female,163,84,Sedentary,Muscle Gain,Overweight
+40,Male,150,90,Sedentary,Weight Loss,Overweight
+53,Female,172,101,Sedentary,Maintenance,Overweight
+57,Female,164,65,Moderately active,Weight Loss,Fit
+26,Male,159,96,Sedentary,Weight Loss,Overweight
+58,Female,184,107,Very active,Weight Loss,Overweight
+28,Female,187,46,Moderately active,Muscle Gain,Underweight
+51,Male,176,61,Very active,Maintenance,Overweight
+41,Male,174,115,Very active,Muscle Gain,Overweight
+41,Male,182,93,Sedentary,Maintenance,Overweight
+39,Male,175,72,Lightly active,Weight Loss,Fit
+24,Male,166,93,Very active,Muscle Gain,Overweight
+45,Female,189,93,Moderately active,Weight Loss,Overweight
+30,Female,179,95,Moderately active,Maintenance,Overweight
+49,Female,179,73,Sedentary,Weight Loss,Overweight
+47,Male,165,84,Moderately active,Muscle Gain,Overweight
+31,Male,196,110,Lightly active,Weight Loss,Overweight
+47,Female,187,95,Moderately active,Weight Loss,Overweight
+46,Female,188,47,Very active,Muscle Gain,Underweight
+36,Female,195,78,Very active,Weight Loss,Overweight
+45,Male,181,94,Moderately active,Weight Loss,Overweight
+18,Female,152,103,Moderately active,Weight Loss,Overweight
+54,Female,152,95,Sedentary,Maintenance,Overweight
+51,Female,184,76,Very active,Muscle Gain,Overweight
+33,Male,153,81,Lightly active,Weight Loss,Overweight
+48,Female,197,51,Lightly active,Maintenance,Overweight
+40,Male,170,63,Very active,Weight Loss,Overweight
+53,Male,178,104,Lightly active,Muscle Gain,Overweight
+22,Male,169,55,Lightly active,Maintenance,Overweight
+20,Female,172,56,Very active,Weight Loss,Underweight
+55,Male,179,53,Lightly active,Weight Loss,Overweight
+52,Female,171,68,Sedentary,Muscle Gain,Overweight
+40,Female,181,58,Sedentary,Muscle Gain,Overweight
+42,Male,188,117,Lightly active,Muscle Gain,Overweight
+21,Male,175,102,Sedentary,Weight Loss,Overweight
+40,Female,186,119,Lightly active,Muscle Gain,Overweight
+38,Female,191,85,Lightly active,Muscle Gain,Overweight
+54,Male,174,71,Sedentary,Maintenance,Overweight
+44,Female,189,56,Sedentary,Weight Loss,Overweight
+24,Male,159,89,Sedentary,Muscle Gain,Overweight
+45,Male,195,108,Lightly active,Muscle Gain,Overweight
+18,Male,185,70,Sedentary,Weight Loss,Overweight
+57,Male,160,80,Sedentary,Maintenance,Overweight
+57,Male,184,98,Lightly active,Maintenance,Overweight
+41,Male,171,113,Very active,Weight Loss,Overweight
+53,Female,196,64,Moderately active,Maintenance,Fit
+34,Female,194,117,Lightly active,Muscle Gain,Overweight
+26,Male,158,84,Sedentary,Weight Loss,Overweight
+57,Male,191,69,Moderately active,Maintenance,Fit
+54,Male,193,88,Moderately active,Muscle Gain,Overweight
+51,Female,161,63,Sedentary,Maintenance,Overweight
+34,Male,159,101,Moderately active,Weight Loss,Overweight
+29,Male,165,52,Moderately active,Weight Loss,Underweight
+40,Male,186,114,Very active,Weight Loss,Overweight
+42,Female,161,59,Moderately active,Muscle Gain,Underweight
+43,Male,196,76,Lightly active,Maintenance,Fit
+40,Male,175,51,Lightly active,Maintenance,Overweight
+24,Male,158,92,Very active,Muscle Gain,Overweight
+40,Male,178,83,Moderately active,Muscle Gain,Overweight
+59,Male,188,61,Lightly active,Maintenance,Fit
+52,Female,193,104,Sedentary,Muscle Gain,Overweight
+54,Male,192,84,Lightly active,Maintenance,Overweight
+56,Male,164,48,Sedentary,Muscle Gain,Overweight
+30,Male,167,77,Very active,Weight Loss,Overweight
+19,Female,184,86,Lightly active,Muscle Gain,Overweight
+30,Male,162,62,Very active,Maintenance,Overweight
+56,Male,195,73,Lightly active,Weight Loss,Fit
+33,Male,193,54,Lightly active,Weight Loss,Overweight
+56,Male,169,49,Sedentary,Muscle Gain,Overweight
+20,Male,194,58,Very active,Muscle Gain,Underweight
+21,Female,167,106,Sedentary,Weight Loss,Overweight
+18,Female,195,117,Moderately active,Weight Loss,Overweight
+41,Male,153,56,Moderately active,Muscle Gain,Underweight
+54,Male,192,114,Moderately active,Maintenance,Overweight
+41,Female,160,106,Sedentary,Muscle Gain,Overweight
+24,Male,153,103,Very active,Weight Loss,Overweight
+27,Male,192,101,Lightly active,Weight Loss,Overweight
+20,Male,155,49,Sedentary,Muscle Gain,Overweight
+40,Male,198,53,Moderately active,Muscle Gain,Underweight
+59,Male,184,94,Lightly active,Muscle Gain,Overweight
+41,Male,152,76,Moderately active,Muscle Gain,Fit
+42,Male,158,112,Lightly active,Weight Loss,Overweight
+28,Female,190,100,Moderately active,Maintenance,Overweight
+46,Female,158,111,Sedentary,Muscle Gain,Overweight
+59,Female,158,84,Sedentary,Weight Loss,Overweight
+51,Male,173,82,Very active,Maintenance,Overweight
+43,Male,167,114,Sedentary,Weight Loss,Overweight
+22,Female,162,84,Sedentary,Muscle Gain,Overweight
+20,Male,189,84,Moderately active,Weight Loss,Overweight
+50,Male,155,63,Very active,Weight Loss,Overweight
+58,Male,162,89,Sedentary,Weight Loss,Overweight
+53,Female,176,82,Very active,Maintenance,Overweight
+48,Male,172,86,Lightly active,Maintenance,Overweight
+47,Male,188,75,Lightly active,Muscle Gain,Fit
+30,Female,178,56,Moderately active,Muscle Gain,Underweight
+30,Female,195,71,Sedentary,Weight Loss,Overweight
+57,Male,180,104,Very active,Weight Loss,Overweight
+23,Male,168,74,Moderately active,Muscle Gain,Fit
+49,Male,183,107,Very active,Maintenance,Overweight
+54,Female,178,66,Very active,Muscle Gain,Overweight
+44,Female,166,56,Lightly active,Weight Loss,Overweight
+18,Female,171,94,Lightly active,Maintenance,Overweight
+29,Male,185,96,Sedentary,Maintenance,Overweight
+28,Male,182,50,Moderately active,Maintenance,Underweight
+28,Female,172,70,Lightly active,Muscle Gain,Fit
+46,Female,153,57,Sedentary,Maintenance,Overweight
+46,Male,178,119,Very active,Muscle Gain,Overweight
+31,Male,169,66,Moderately active,Maintenance,Fit
+34,Male,193,100,Very active,Weight Loss,Overweight
+33,Male,186,103,Very active,Muscle Gain,Overweight
+22,Male,152,45,Lightly active,Muscle Gain,Overweight
+51,Male,184,108,Sedentary,Weight Loss,Overweight
+29,Female,167,59,Very active,Maintenance,Underweight
+42,Female,166,97,Very active,Maintenance,Overweight
+24,Male,152,108,Very active,Weight Loss,Overweight
+20,Female,169,90,Moderately active,Weight Loss,Overweight
+31,Female,156,61,Lightly active,Weight Loss,Fit
+39,Female,151,116,Moderately active,Weight Loss,Overweight
+25,Male,170,62,Lightly active,Muscle Gain,Fit
+48,Female,187,76,Moderately active,Weight Loss,Fit
+50,Male,187,85,Very active,Maintenance,Overweight
+41,Female,190,61,Very active,Weight Loss,Overweight
+49,Female,164,98,Lightly active,Weight Loss,Overweight
+57,Female,181,46,Sedentary,Weight Loss,Overweight
+30,Male,179,77,Sedentary,Muscle Gain,Overweight
+56,Female,151,82,Moderately active,Muscle Gain,Overweight
+32,Female,183,88,Sedentary,Maintenance,Overweight
+20,Male,155,53,Lightly active,Weight Loss,Overweight
+48,Male,181,85,Lightly active,Muscle Gain,Overweight
+37,Female,196,51,Moderately active,Muscle Gain,Underweight
+39,Female,175,47,Moderately active,Weight Loss,Underweight
+59,Female,163,119,Lightly active,Muscle Gain,Overweight
+40,Female,161,57,Sedentary,Weight Loss,Overweight
+36,Male,195,89,Very active,Weight Loss,Overweight
+49,Male,193,114,Lightly active,Maintenance,Overweight
+54,Female,181,100,Sedentary,Maintenance,Overweight
+45,Male,159,79,Sedentary,Weight Loss,Overweight
+32,Female,182,51,Very active,Weight Loss,Underweight
+38,Female,180,102,Sedentary,Weight Loss,Overweight
+45,Female,193,64,Very active,Muscle Gain,Overweight
+49,Male,190,80,Lightly active,Weight Loss,Fit
+53,Female,151,78,Very active,Muscle Gain,Overweight
+59,Male,161,47,Sedentary,Muscle Gain,Overweight
+38,Female,164,70,Very active,Muscle Gain,Overweight
+59,Male,193,58,Lightly active,Muscle Gain,Overweight
+54,Male,154,82,Sedentary,Weight Loss,Overweight
+31,Female,188,46,Moderately active,Muscle Gain,Underweight
+42,Male,177,110,Moderately active,Weight Loss,Overweight
+18,Male,189,100,Very active,Weight Loss,Overweight
+48,Male,160,54,Moderately active,Muscle Gain,Underweight
+33,Female,159,54,Very active,Muscle Gain,Underweight
+18,Male,154,64,Very active,Maintenance,Overweight
+18,Female,169,72,Sedentary,Maintenance,Overweight
+54,Male,161,81,Sedentary,Weight Loss,Overweight
+45,Female,196,50,Very active,Maintenance,Underweight
+37,Male,199,46,Sedentary,Maintenance,Overweight
+37,Male,175,73,Sedentary,Maintenance,Overweight
+23,Male,186,103,Sedentary,Weight Loss,Overweight
+31,Male,161,64,Sedentary,Muscle Gain,Overweight
+51,Female,174,94,Sedentary,Weight Loss,Overweight
+48,Male,196,87,Lightly active,Maintenance,Overweight
+55,Female,169,67,Very active,Muscle Gain,Overweight
+33,Male,199,52,Lightly active,Weight Loss,Overweight
+25,Male,178,49,Moderately active,Muscle Gain,Underweight
+51,Male,150,99,Moderately active,Muscle Gain,Overweight
+27,Male,179,61,Lightly active,Maintenance,Fit
+29,Female,176,116,Sedentary,Muscle Gain,Overweight
+50,Female,150,63,Moderately active,Muscle Gain,Fit
+22,Male,190,106,Very active,Muscle Gain,Overweight
+23,Female,158,77,Sedentary,Weight Loss,Overweight
+30,Female,158,75,Sedentary,Maintenance,Overweight
+51,Female,187,48,Lightly active,Maintenance,Overweight
+51,Female,167,57,Sedentary,Maintenance,Overweight
+28,Male,150,98,Moderately active,Weight Loss,Overweight
+32,Male,150,115,Moderately active,Weight Loss,Overweight
+46,Male,174,77,Sedentary,Weight Loss,Overweight
+55,Male,175,55,Moderately active,Muscle Gain,Underweight
+27,Female,151,90,Sedentary,Maintenance,Overweight
+43,Male,157,92,Lightly active,Muscle Gain,Overweight
+46,Female,175,69,Very active,Weight Loss,Overweight
+54,Female,164,88,Very active,Maintenance,Overweight
+40,Male,155,90,Lightly active,Maintenance,Overweight
+38,Male,172,91,Sedentary,Maintenance,Overweight
+53,Male,160,95,Moderately active,Weight Loss,Overweight
+39,Male,168,78,Lightly active,Weight Loss,Fit
+44,Female,178,72,Moderately active,Muscle Gain,Fit
+47,Female,167,46,Sedentary,Weight Loss,Overweight
+43,Female,174,119,Moderately active,Maintenance,Overweight
+27,Female,188,57,Moderately active,Maintenance,Underweight
+59,Male,191,100,Very active,Muscle Gain,Overweight
+18,Male,193,89,Lightly active,Maintenance,Overweight
+30,Male,171,65,Lightly active,Weight Loss,Fit
+26,Female,164,54,Very active,Muscle Gain,Underweight
+59,Male,157,68,Very active,Weight Loss,Overweight
+44,Female,186,112,Lightly active,Maintenance,Overweight
+56,Female,159,62,Moderately active,Muscle Gain,Fit
+22,Male,196,93,Moderately active,Muscle Gain,Overweight
+38,Male,166,66,Very active,Weight Loss,Overweight
+52,Male,177,115,Very active,Maintenance,Overweight
+26,Female,163,101,Lightly active,Weight Loss,Overweight
+52,Female,156,62,Moderately active,Muscle Gain,Fit
+56,Female,190,119,Moderately active,Muscle Gain,Overweight
+21,Male,175,86,Very active,Maintenance,Overweight
+53,Male,189,80,Moderately active,Weight Loss,Fit
+50,Female,155,85,Moderately active,Weight Loss,Overweight
+19,Male,154,88,Moderately active,Weight Loss,Overweight
+55,Female,157,94,Moderately active,Muscle Gain,Overweight
+20,Female,171,114,Lightly active,Maintenance,Overweight
+19,Female,187,79,Lightly active,Maintenance,Fit
+25,Female,171,88,Lightly active,Weight Loss,Overweight
+46,Male,180,91,Sedentary,Maintenance,Overweight
+59,Female,179,99,Very active,Weight Loss,Overweight
+29,Female,157,47,Very active,Muscle Gain,Underweight
+40,Male,177,49,Very active,Weight Loss,Underweight
+47,Male,170,114,Lightly active,Muscle Gain,Overweight
+56,Female,181,77,Sedentary,Muscle Gain,Overweight
+51,Female,163,80,Sedentary,Maintenance,Overweight
+19,Female,190,46,Moderately active,Weight Loss,Underweight
+18,Male,160,111,Very active,Muscle Gain,Overweight
+43,Male,153,99,Lightly active,Maintenance,Overweight
+32,Female,171,104,Sedentary,Muscle Gain,Overweight
+59,Female,187,89,Moderately active,Muscle Gain,Overweight
+59,Female,179,50,Moderately active,Maintenance,Underweight
+31,Female,158,59,Sedentary,Maintenance,Overweight
+44,Female,151,79,Lightly active,Muscle Gain,Fit
+35,Female,159,69,Lightly active,Weight Loss,Fit
+50,Male,185,58,Sedentary,Muscle Gain,Overweight
+20,Female,184,85,Lightly active,Weight Loss,Overweight
+51,Male,157,65,Lightly active,Weight Loss,Fit
+21,Male,194,104,Very active,Weight Loss,Overweight
+31,Male,169,62,Sedentary,Maintenance,Overweight
+49,Female,178,87,Lightly active,Muscle Gain,Overweight
+40,Female,168,75,Moderately active,Weight Loss,Fit
+51,Male,159,46,Lightly active,Maintenance,Overweight
+48,Female,164,117,Moderately active,Maintenance,Overweight
+52,Male,170,117,Very active,Muscle Gain,Overweight
+24,Female,165,60,Very active,Weight Loss,Overweight
+21,Female,188,84,Sedentary,Weight Loss,Overweight
+46,Male,185,82,Moderately active,Muscle Gain,Overweight
+54,Male,184,51,Moderately active,Muscle Gain,Underweight
+24,Female,186,49,Lightly active,Maintenance,Overweight
+44,Female,170,65,Lightly active,Maintenance,Fit
+56,Female,154,109,Sedentary,Weight Loss,Overweight
+38,Female,167,89,Very active,Weight Loss,Overweight
+28,Male,170,96,Very active,Maintenance,Overweight
+43,Male,153,78,Very active,Muscle Gain,Overweight
+52,Female,190,96,Sedentary,Muscle Gain,Overweight
+38,Female,191,57,Sedentary,Weight Loss,Overweight
+34,Female,158,85,Sedentary,Muscle Gain,Overweight
+46,Female,182,54,Lightly active,Muscle Gain,Overweight
+57,Female,170,72,Moderately active,Maintenance,Fit
+25,Female,171,116,Sedentary,Maintenance,Overweight
+40,Male,173,89,Moderately active,Weight Loss,Overweight
+18,Female,172,52,Sedentary,Weight Loss,Overweight
+18,Male,194,95,Very active,Maintenance,Overweight
+34,Female,154,64,Sedentary,Muscle Gain,Overweight
+53,Male,160,96,Moderately active,Maintenance,Overweight
+45,Male,192,102,Sedentary,Weight Loss,Overweight
+49,Female,157,108,Lightly active,Muscle Gain,Overweight
+49,Male,197,52,Very active,Weight Loss,Underweight
+19,Male,164,94,Moderately active,Weight Loss,Overweight
+21,Female,163,85,Sedentary,Muscle Gain,Overweight
+27,Male,170,80,Very active,Maintenance,Overweight
+19,Female,162,97,Very active,Maintenance,Overweight
+49,Female,181,55,Lightly active,Maintenance,Overweight
+57,Male,167,99,Sedentary,Weight Loss,Overweight
+31,Female,174,66,Very active,Muscle Gain,Overweight
+38,Female,193,76,Moderately active,Muscle Gain,Fit
+38,Male,184,76,Lightly active,Maintenance,Fit
+29,Male,190,91,Lightly active,Weight Loss,Overweight
+38,Male,157,90,Very active,Muscle Gain,Overweight
+40,Male,193,119,Very active,Muscle Gain,Overweight
+42,Female,171,73,Sedentary,Muscle Gain,Overweight
+46,Female,170,96,Moderately active,Muscle Gain,Overweight
+32,Male,172,88,Sedentary,Muscle Gain,Overweight
+54,Male,182,100,Moderately active,Maintenance,Overweight
+36,Female,172,73,Lightly active,Maintenance,Fit
+42,Female,186,52,Lightly active,Muscle Gain,Overweight
+25,Female,150,49,Moderately active,Weight Loss,Underweight
+57,Female,184,108,Lightly active,Muscle Gain,Overweight
+42,Male,159,65,Very active,Muscle Gain,Overweight
+44,Male,176,110,Sedentary,Weight Loss,Overweight
+53,Male,171,102,Lightly active,Weight Loss,Overweight
+31,Female,183,97,Sedentary,Maintenance,Overweight
+48,Female,155,100,Moderately active,Weight Loss,Overweight
+21,Female,196,48,Very active,Muscle Gain,Underweight
+52,Female,175,81,Lightly active,Weight Loss,Overweight
+57,Female,188,65,Lightly active,Muscle Gain,Fit
+21,Female,194,64,Sedentary,Maintenance,Overweight
+21,Male,178,58,Moderately active,Weight Loss,Underweight
+21,Female,173,78,Lightly active,Muscle Gain,Fit
+48,Male,168,93,Moderately active,Muscle Gain,Overweight
+39,Male,173,74,Lightly active,Muscle Gain,Fit
+48,Male,185,108,Moderately active,Weight Loss,Overweight
+47,Female,198,99,Sedentary,Muscle Gain,Overweight
+45,Male,196,119,Sedentary,Muscle Gain,Overweight
+50,Male,166,114,Very active,Maintenance,Overweight
+32,Male,155,91,Lightly active,Maintenance,Overweight
+26,Male,175,60,Sedentary,Weight Loss,Overweight
+27,Female,199,47,Sedentary,Maintenance,Overweight
+47,Male,194,114,Sedentary,Maintenance,Overweight
+36,Male,191,79,Lightly active,Muscle Gain,Fit
+22,Male,178,108,Sedentary,Weight Loss,Overweight
+27,Male,154,114,Lightly active,Muscle Gain,Overweight
+56,Male,199,79,Sedentary,Weight Loss,Overweight
+23,Female,190,98,Lightly active,Weight Loss,Overweight
+37,Male,173,80,Sedentary,Muscle Gain,Overweight
+59,Female,179,51,Moderately active,Maintenance,Underweight
+31,Female,159,60,Lightly active,Maintenance,Fit
+42,Female,162,114,Very active,Weight Loss,Overweight
+53,Male,192,101,Sedentary,Muscle Gain,Overweight
+44,Male,156,114,Moderately active,Maintenance,Overweight
+49,Female,160,64,Very active,Maintenance,Overweight
+24,Female,170,86,Lightly active,Muscle Gain,Overweight
+54,Male,170,113,Moderately active,Maintenance,Overweight
+54,Female,173,93,Moderately active,Maintenance,Overweight
+38,Male,161,105,Sedentary,Weight Loss,Overweight
+21,Female,191,115,Lightly active,Maintenance,Overweight
+34,Male,173,105,Sedentary,Muscle Gain,Overweight
+58,Female,188,93,Sedentary,Muscle Gain,Overweight
+23,Female,183,109,Lightly active,Weight Loss,Overweight
+19,Male,171,101,Lightly active,Muscle Gain,Overweight
+33,Female,197,95,Sedentary,Maintenance,Overweight
+29,Female,173,84,Lightly active,Maintenance,Overweight
+52,Female,198,108,Very active,Maintenance,Overweight
+37,Male,175,112,Lightly active,Muscle Gain,Overweight
+57,Male,170,58,Moderately active,Weight Loss,Underweight
+57,Male,177,70,Sedentary,Maintenance,Overweight
+42,Female,152,116,Very active,Weight Loss,Overweight
+52,Female,155,83,Very active,Maintenance,Overweight
+36,Male,154,95,Moderately active,Muscle Gain,Overweight
+41,Female,177,85,Very active,Weight Loss,Overweight
+25,Male,158,91,Moderately active,Muscle Gain,Overweight
+35,Female,191,104,Very active,Muscle Gain,Overweight
+19,Female,156,47,Sedentary,Maintenance,Overweight
+57,Male,187,77,Very active,Weight Loss,Overweight
+25,Male,186,76,Very active,Maintenance,Overweight
+21,Male,179,114,Lightly active,Muscle Gain,Overweight
+49,Male,158,56,Moderately active,Muscle Gain,Underweight
+33,Male,150,107,Sedentary,Maintenance,Overweight
+38,Male,179,57,Lightly active,Muscle Gain,Overweight
+48,Female,176,113,Sedentary,Maintenance,Overweight
+21,Male,174,64,Lightly active,Muscle Gain,Fit
+22,Female,184,105,Very active,Weight Loss,Overweight
+55,Male,199,50,Moderately active,Weight Loss,Underweight
+19,Male,196,117,Sedentary,Muscle Gain,Overweight
+20,Female,161,74,Lightly active,Weight Loss,Fit
+43,Female,182,79,Very active,Muscle Gain,Overweight
+35,Male,160,101,Moderately active,Muscle Gain,Overweight
+22,Male,193,55,Lightly active,Maintenance,Overweight
+52,Male,182,60,Lightly active,Muscle Gain,Fit
+57,Male,177,91,Moderately active,Muscle Gain,Overweight
+37,Male,150,116,Moderately active,Maintenance,Overweight
+20,Female,153,102,Sedentary,Maintenance,Overweight
+32,Female,170,101,Sedentary,Weight Loss,Overweight
+31,Female,185,61,Moderately active,Weight Loss,Fit
+30,Male,164,50,Moderately active,Maintenance,Underweight
+44,Male,183,90,Lightly active,Muscle Gain,Overweight
+25,Female,184,63,Lightly active,Maintenance,Fit
+37,Female,198,69,Very active,Muscle Gain,Overweight
+55,Female,172,66,Very active,Weight Loss,Overweight
+20,Male,191,63,Sedentary,Weight Loss,Overweight
+31,Male,158,63,Moderately active,Muscle Gain,Fit
+55,Female,185,84,Sedentary,Muscle Gain,Overweight
+50,Male,174,58,Moderately active,Weight Loss,Underweight
+58,Male,163,85,Very active,Maintenance,Overweight
+45,Female,157,46,Sedentary,Weight Loss,Overweight
+39,Female,190,99,Very active,Weight Loss,Overweight
+47,Female,161,79,Moderately active,Muscle Gain,Fit
+38,Female,170,113,Very active,Weight Loss,Overweight
+50,Male,158,105,Sedentary,Maintenance,Overweight
+51,Male,173,109,Very active,Weight Loss,Overweight
+57,Male,161,98,Very active,Muscle Gain,Overweight
+32,Male,190,63,Lightly active,Weight Loss,Fit
+57,Female,170,95,Lightly active,Weight Loss,Overweight
+21,Male,156,72,Very active,Muscle Gain,Overweight
+20,Female,171,110,Very active,Muscle Gain,Overweight
+58,Male,150,116,Moderately active,Muscle Gain,Overweight
+39,Female,174,61,Sedentary,Muscle Gain,Overweight
+44,Female,157,109,Sedentary,Weight Loss,Overweight
+52,Male,189,58,Moderately active,Weight Loss,Underweight
+30,Female,187,93,Lightly active,Weight Loss,Overweight
+25,Female,192,64,Very active,Weight Loss,Overweight
+56,Female,170,93,Very active,Muscle Gain,Overweight
+58,Female,158,81,Sedentary,Weight Loss,Overweight
+41,Male,170,95,Moderately active,Maintenance,Overweight
+58,Male,188,57,Very active,Maintenance,Underweight
+36,Female,160,90,Sedentary,Weight Loss,Overweight
+36,Female,161,116,Very active,Weight Loss,Overweight
+29,Male,197,77,Sedentary,Muscle Gain,Overweight
+45,Male,154,52,Sedentary,Maintenance,Overweight
+40,Female,179,91,Moderately active,Weight Loss,Overweight
+37,Male,167,62,Lightly active,Muscle Gain,Fit
+53,Male,167,63,Moderately active,Weight Loss,Fit
+29,Male,164,85,Moderately active,Muscle Gain,Overweight
+46,Male,190,118,Lightly active,Maintenance,Overweight
+30,Male,159,58,Lightly active,Maintenance,Overweight
+26,Female,188,72,Moderately active,Muscle Gain,Fit
+19,Male,178,82,Moderately active,Muscle Gain,Overweight
+19,Female,166,85,Lightly active,Maintenance,Overweight
+18,Male,194,106,Sedentary,Maintenance,Overweight
+42,Male,172,68,Sedentary,Muscle Gain,Overweight
+38,Female,192,62,Very active,Maintenance,Overweight
+26,Male,187,74,Very active,Muscle Gain,Overweight
+20,Female,152,72,Very active,Maintenance,Overweight
+40,Male,189,119,Very active,Muscle Gain,Overweight
+53,Male,182,68,Moderately active,Muscle Gain,Fit
+45,Female,186,51,Very active,Weight Loss,Underweight
+18,Female,150,91,Very active,Maintenance,Overweight
+27,Male,167,79,Moderately active,Maintenance,Fit
+44,Male,160,93,Sedentary,Muscle Gain,Overweight
+22,Female,157,78,Very active,Muscle Gain,Overweight
+48,Male,153,94,Sedentary,Muscle Gain,Overweight
+41,Female,152,119,Sedentary,Muscle Gain,Overweight
+44,Male,191,95,Lightly active,Muscle Gain,Overweight
+32,Male,179,86,Sedentary,Muscle Gain,Overweight
+54,Male,191,79,Moderately active,Muscle Gain,Fit
+35,Female,158,73,Sedentary,Maintenance,Overweight
+34,Male,194,66,Very active,Weight Loss,Overweight
+58,Male,198,57,Lightly active,Weight Loss,Overweight
+40,Female,152,86,Lightly active,Weight Loss,Overweight
+38,Male,195,65,Very active,Maintenance,Overweight
+21,Male,150,107,Very active,Weight Loss,Overweight
+30,Male,196,55,Very active,Maintenance,Underweight
+34,Male,184,68,Lightly active,Maintenance,Fit
+56,Male,170,52,Very active,Weight Loss,Underweight
+54,Male,185,63,Moderately active,Maintenance,Fit
+51,Male,160,98,Sedentary,Maintenance,Overweight
+38,Female,160,49,Sedentary,Weight Loss,Overweight
+29,Female,155,61,Moderately active,Maintenance,Fit
+49,Female,155,99,Lightly active,Muscle Gain,Overweight
+50,Male,173,67,Moderately active,Maintenance,Fit
+34,Male,163,95,Moderately active,Maintenance,Overweight
+21,Male,156,79,Very active,Maintenance,Overweight
+25,Male,194,116,Moderately active,Maintenance,Overweight
+20,Female,154,57,Moderately active,Muscle Gain,Underweight
+48,Male,165,66,Sedentary,Muscle Gain,Overweight
+20,Male,159,86,Very active,Muscle Gain,Overweight
+33,Male,161,110,Sedentary,Maintenance,Overweight
+47,Female,179,91,Moderately active,Maintenance,Overweight
+25,Female,175,115,Lightly active,Maintenance,Overweight
+18,Male,185,69,Sedentary,Weight Loss,Overweight
+54,Male,162,52,Sedentary,Weight Loss,Overweight
+18,Male,185,79,Lightly active,Maintenance,Fit
+40,Female,158,78,Lightly active,Muscle Gain,Fit
+21,Female,179,119,Moderately active,Maintenance,Overweight
+30,Female,194,78,Sedentary,Weight Loss,Overweight
+55,Male,165,110,Very active,Weight Loss,Overweight
+51,Male,191,60,Lightly active,Muscle Gain,Fit
+43,Female,162,100,Moderately active,Maintenance,Overweight
+51,Female,188,111,Very active,Maintenance,Overweight
+44,Female,178,97,Moderately active,Weight Loss,Overweight
+58,Male,179,97,Sedentary,Weight Loss,Overweight
+36,Male,174,75,Sedentary,Maintenance,Overweight
+49,Male,159,54,Very active,Muscle Gain,Underweight
+37,Female,181,58,Lightly active,Muscle Gain,Overweight
+41,Female,164,66,Lightly active,Maintenance,Fit
+30,Female,172,52,Lightly active,Maintenance,Overweight
+31,Male,183,119,Sedentary,Weight Loss,Overweight
+48,Male,198,70,Lightly active,Muscle Gain,Fit
+34,Female,172,94,Very active,Weight Loss,Overweight
+22,Female,193,108,Sedentary,Maintenance,Overweight
+18,Male,192,63,Sedentary,Maintenance,Overweight
+21,Female,185,59,Moderately active,Weight Loss,Underweight
+23,Male,197,100,Very active,Maintenance,Overweight
+34,Male,172,73,Sedentary,Maintenance,Overweight
+27,Male,196,67,Sedentary,Weight Loss,Overweight
+30,Male,186,77,Very active,Maintenance,Overweight
+21,Male,196,69,Lightly active,Weight Loss,Fit
+37,Male,168,56,Sedentary,Muscle Gain,Overweight
+54,Male,197,72,Very active,Weight Loss,Overweight
+35,Male,163,115,Sedentary,Weight Loss,Overweight
+54,Female,162,75,Lightly active,Weight Loss,Fit
+55,Male,160,98,Very active,Muscle Gain,Overweight
+53,Male,194,89,Sedentary,Muscle Gain,Overweight
+41,Male,157,51,Very active,Muscle Gain,Underweight
+45,Male,155,88,Sedentary,Muscle Gain,Overweight
+18,Female,185,65,Very active,Maintenance,Overweight
+30,Male,198,98,Lightly active,Weight Loss,Overweight
+27,Female,195,57,Sedentary,Muscle Gain,Overweight
+19,Female,171,58,Lightly active,Maintenance,Overweight
+20,Male,196,61,Very active,Muscle Gain,Overweight
+41,Female,178,87,Sedentary,Muscle Gain,Overweight
+43,Female,187,109,Very active,Maintenance,Overweight
+33,Female,196,102,Very active,Maintenance,Overweight
+59,Female,196,78,Sedentary,Muscle Gain,Overweight
+49,Male,181,69,Sedentary,Maintenance,Overweight
+24,Female,161,60,Very active,Maintenance,Overweight
+53,Male,162,51,Very active,Maintenance,Underweight
+26,Male,181,119,Very active,Weight Loss,Overweight
+42,Male,157,89,Lightly active,Maintenance,Overweight
+57,Female,152,73,Sedentary,Weight Loss,Overweight
+51,Female,177,88,Lightly active,Muscle Gain,Overweight
+26,Female,154,100,Very active,Muscle Gain,Overweight
+32,Male,181,72,Lightly active,Weight Loss,Fit
+43,Male,193,115,Lightly active,Weight Loss,Overweight
+42,Female,159,89,Moderately active,Maintenance,Overweight
+25,Male,189,112,Moderately active,Maintenance,Overweight
+28,Female,192,109,Sedentary,Maintenance,Overweight
+55,Female,173,98,Very active,Weight Loss,Overweight
+48,Male,190,90,Lightly active,Muscle Gain,Overweight
+22,Male,169,96,Sedentary,Maintenance,Overweight
+50,Female,199,82,Moderately active,Muscle Gain,Overweight
+49,Male,170,90,Sedentary,Muscle Gain,Overweight
+39,Female,167,118,Lightly active,Weight Loss,Overweight
+47,Male,152,50,Sedentary,Weight Loss,Overweight
+50,Male,166,119,Sedentary,Muscle Gain,Overweight
+48,Male,177,114,Sedentary,Maintenance,Overweight
+43,Female,161,55,Sedentary,Weight Loss,Overweight
+36,Female,172,99,Lightly active,Muscle Gain,Overweight
+43,Female,155,48,Very active,Maintenance,Underweight
+51,Male,166,87,Sedentary,Muscle Gain,Overweight
+25,Female,162,52,Lightly active,Maintenance,Overweight
+18,Female,192,83,Sedentary,Maintenance,Overweight
+41,Female,199,88,Sedentary,Weight Loss,Overweight
+53,Female,186,72,Lightly active,Maintenance,Fit
+38,Male,173,86,Very active,Muscle Gain,Overweight
+25,Male,197,66,Sedentary,Maintenance,Overweight
+46,Male,152,57,Sedentary,Muscle Gain,Overweight
+26,Female,176,78,Moderately active,Weight Loss,Fit
+42,Female,178,115,Sedentary,Maintenance,Overweight
+37,Female,179,79,Moderately active,Weight Loss,Fit
+44,Male,175,61,Lightly active,Weight Loss,Fit
+46,Female,169,97,Moderately active,Muscle Gain,Overweight
+18,Female,199,45,Lightly active,Muscle Gain,Overweight
+37,Male,172,54,Moderately active,Maintenance,Underweight
+58,Male,154,109,Sedentary,Muscle Gain,Overweight
+58,Female,178,112,Sedentary,Maintenance,Overweight
+38,Female,184,70,Moderately active,Maintenance,Fit
+24,Male,196,115,Lightly active,Weight Loss,Overweight
+31,Male,153,67,Lightly active,Maintenance,Fit
+46,Female,157,85,Very active,Maintenance,Overweight
+56,Female,195,72,Lightly active,Weight Loss,Fit
+21,Male,164,81,Sedentary,Maintenance,Overweight
+41,Male,176,84,Moderately active,Weight Loss,Overweight
+51,Female,178,68,Very active,Muscle Gain,Overweight
+20,Female,183,101,Sedentary,Maintenance,Overweight
+40,Male,194,113,Moderately active,Muscle Gain,Overweight
+58,Male,155,101,Lightly active,Maintenance,Overweight
+55,Male,170,105,Very active,Maintenance,Overweight
+39,Female,196,112,Very active,Muscle Gain,Overweight
+53,Male,196,85,Sedentary,Weight Loss,Overweight
+47,Male,186,69,Very active,Maintenance,Overweight
+31,Male,197,91,Lightly active,Maintenance,Overweight
+39,Female,170,98,Sedentary,Weight Loss,Overweight
+48,Female,191,118,Very active,Maintenance,Overweight
+26,Female,166,55,Very active,Muscle Gain,Underweight
+34,Female,153,92,Very active,Maintenance,Overweight
+38,Male,186,109,Moderately active,Weight Loss,Overweight
+53,Male,166,110,Very active,Maintenance,Overweight
+56,Female,155,45,Moderately active,Maintenance,Underweight
+56,Female,166,78,Moderately active,Weight Loss,Fit
+26,Male,162,114,Lightly active,Weight Loss,Overweight
+34,Male,198,91,Sedentary,Maintenance,Overweight
+18,Female,166,111,Lightly active,Maintenance,Overweight
+49,Female,181,112,Lightly active,Weight Loss,Overweight
+52,Male,189,102,Sedentary,Muscle Gain,Overweight
+21,Female,173,103,Sedentary,Maintenance,Overweight
+50,Female,198,84,Moderately active,Weight Loss,Overweight
+22,Male,176,50,Very active,Weight Loss,Underweight
+52,Female,168,87,Lightly active,Weight Loss,Overweight
+48,Female,153,88,Moderately active,Muscle Gain,Overweight
+39,Female,186,116,Moderately active,Muscle Gain,Overweight
+20,Female,199,60,Moderately active,Maintenance,Fit
+35,Male,165,116,Very active,Weight Loss,Overweight
+29,Male,160,49,Moderately active,Weight Loss,Underweight
+50,Female,154,101,Very active,Muscle Gain,Overweight
+50,Male,199,63,Lightly active,Weight Loss,Fit
+19,Male,179,91,Moderately active,Weight Loss,Overweight
+37,Male,156,58,Moderately active,Maintenance,Underweight
+46,Female,169,73,Very active,Muscle Gain,Overweight
+27,Male,190,101,Very active,Muscle Gain,Overweight
+46,Female,159,61,Lightly active,Muscle Gain,Fit
+22,Female,177,106,Sedentary,Weight Loss,Overweight
+43,Female,169,85,Sedentary,Maintenance,Overweight
+29,Male,156,47,Lightly active,Muscle Gain,Overweight
+52,Male,165,46,Very active,Muscle Gain,Underweight
+39,Female,175,87,Moderately active,Maintenance,Overweight
+46,Male,196,64,Moderately active,Weight Loss,Fit
+37,Female,193,63,Very active,Maintenance,Overweight
+19,Male,179,97,Lightly active,Muscle Gain,Overweight
+23,Male,164,71,Lightly active,Weight Loss,Fit
+49,Male,197,114,Sedentary,Maintenance,Overweight
+19,Female,178,112,Sedentary,Maintenance,Overweight
+42,Female,159,97,Moderately active,Maintenance,Overweight
+38,Female,171,74,Sedentary,Weight Loss,Overweight
+18,Female,198,89,Very active,Maintenance,Overweight
+26,Male,185,45,Lightly active,Weight Loss,Overweight
+59,Male,181,76,Lightly active,Muscle Gain,Fit
+27,Male,199,71,Lightly active,Muscle Gain,Fit
+38,Male,174,72,Moderately active,Maintenance,Fit
+46,Female,158,71,Lightly active,Maintenance,Fit
+45,Female,166,87,Sedentary,Weight Loss,Overweight
+37,Female,194,84,Moderately active,Weight Loss,Overweight
+40,Male,196,96,Moderately active,Maintenance,Overweight
+22,Male,192,92,Lightly active,Maintenance,Overweight
+20,Male,182,119,Very active,Muscle Gain,Overweight
+27,Female,167,82,Moderately active,Maintenance,Overweight
+30,Female,195,47,Lightly active,Muscle Gain,Overweight
+44,Male,195,52,Moderately active,Muscle Gain,Underweight
+34,Female,158,50,Moderately active,Weight Loss,Underweight
+45,Male,182,98,Sedentary,Weight Loss,Overweight
+38,Female,151,105,Lightly active,Maintenance,Overweight
+55,Male,189,80,Lightly active,Maintenance,Fit
+32,Male,177,62,Lightly active,Maintenance,Fit
+28,Female,162,48,Lightly active,Maintenance,Overweight
+41,Male,153,45,Moderately active,Maintenance,Underweight
+55,Female,199,45,Lightly active,Muscle Gain,Overweight
+46,Male,154,118,Very active,Weight Loss,Overweight
+24,Female,152,91,Very active,Maintenance,Overweight
+21,Male,154,45,Very active,Maintenance,Underweight
+59,Female,172,69,Sedentary,Weight Loss,Overweight
+41,Male,174,99,Lightly active,Maintenance,Overweight
+22,Female,185,93,Lightly active,Muscle Gain,Overweight
+33,Male,182,105,Sedentary,Muscle Gain,Overweight
+52,Male,188,66,Sedentary,Muscle Gain,Overweight
+59,Male,172,111,Lightly active,Weight Loss,Overweight
+39,Male,158,73,Moderately active,Weight Loss,Fit
+30,Male,181,90,Very active,Maintenance,Overweight
+40,Female,194,61,Moderately active,Weight Loss,Fit
+54,Female,155,62,Lightly active,Muscle Gain,Fit
+50,Female,179,76,Lightly active,Maintenance,Fit
+27,Female,196,80,Lightly active,Weight Loss,Fit
+45,Female,160,83,Moderately active,Maintenance,Overweight
+36,Female,164,72,Very active,Maintenance,Overweight
+26,Male,196,77,Lightly active,Weight Loss,Fit
+20,Male,159,84,Moderately active,Muscle Gain,Overweight
+46,Male,199,57,Lightly active,Weight Loss,Overweight
+46,Female,197,92,Sedentary,Weight Loss,Overweight
+46,Female,188,70,Sedentary,Maintenance,Overweight
+22,Male,175,93,Moderately active,Maintenance,Overweight
+56,Female,150,106,Sedentary,Maintenance,Overweight
+20,Male,164,73,Sedentary,Maintenance,Overweight
+43,Female,165,69,Lightly active,Weight Loss,Fit
+18,Female,178,85,Moderately active,Maintenance,Overweight
+58,Female,156,73,Moderately active,Maintenance,Fit
+58,Female,194,59,Moderately active,Maintenance,Underweight
+47,Male,189,62,Moderately active,Muscle Gain,Fit
+25,Female,171,50,Very active,Maintenance,Underweight
+57,Male,185,101,Sedentary,Weight Loss,Overweight
+19,Female,162,89,Lightly active,Maintenance,Overweight
+46,Female,191,111,Moderately active,Maintenance,Overweight
+31,Female,189,103,Moderately active,Muscle Gain,Overweight
+28,Female,180,74,Moderately active,Muscle Gain,Fit
+26,Female,177,75,Very active,Muscle Gain,Overweight
+32,Male,197,69,Very active,Weight Loss,Overweight
+54,Female,197,89,Lightly active,Maintenance,Overweight
+34,Female,184,108,Very active,Weight Loss,Overweight
+24,Male,177,53,Moderately active,Muscle Gain,Underweight
+34,Male,165,47,Sedentary,Muscle Gain,Overweight
+59,Female,186,106,Lightly active,Muscle Gain,Overweight
+30,Male,160,98,Very active,Maintenance,Overweight
+57,Male,194,103,Lightly active,Muscle Gain,Overweight
+29,Female,159,88,Moderately active,Maintenance,Overweight
+34,Female,175,46,Lightly active,Maintenance,Overweight
+40,Female,167,106,Very active,Weight Loss,Overweight
+55,Female,196,111,Lightly active,Maintenance,Overweight
+18,Female,179,89,Very active,Weight Loss,Overweight
+30,Female,176,51,Lightly active,Muscle Gain,Overweight
+32,Male,164,48,Very active,Maintenance,Underweight
+23,Male,173,77,Very active,Weight Loss,Overweight
+39,Male,155,65,Very active,Maintenance,Overweight
+22,Male,195,94,Very active,Muscle Gain,Overweight
+57,Male,178,115,Very active,Weight Loss,Overweight
+35,Female,151,52,Moderately active,Weight Loss,Underweight
+55,Female,197,71,Very active,Maintenance,Overweight
+48,Male,176,105,Lightly active,Maintenance,Overweight
+44,Male,184,59,Very active,Weight Loss,Underweight
+52,Male,160,103,Sedentary,Maintenance,Overweight
+28,Female,179,92,Sedentary,Maintenance,Overweight
+55,Female,180,68,Lightly active,Weight Loss,Fit
+53,Female,181,99,Moderately active,Maintenance,Overweight
+52,Female,152,113,Sedentary,Weight Loss,Overweight
+36,Female,174,112,Sedentary,Weight Loss,Overweight
+36,Male,192,110,Lightly active,Weight Loss,Overweight
+42,Male,169,92,Moderately active,Maintenance,Overweight
+28,Female,195,99,Very active,Weight Loss,Overweight
+22,Male,170,56,Lightly active,Muscle Gain,Overweight
+59,Male,169,82,Sedentary,Muscle Gain,Overweight
+49,Male,160,105,Lightly active,Maintenance,Overweight
+35,Male,172,119,Sedentary,Weight Loss,Overweight
+58,Male,174,98,Lightly active,Muscle Gain,Overweight
+18,Male,156,48,Sedentary,Maintenance,Overweight
+29,Female,171,91,Sedentary,Weight Loss,Overweight
+31,Female,199,64,Lightly active,Weight Loss,Fit
+32,Male,161,84,Lightly active,Muscle Gain,Overweight
+20,Female,177,100,Lightly active,Muscle Gain,Overweight
+30,Male,151,81,Sedentary,Muscle Gain,Overweight
+53,Female,175,119,Very active,Maintenance,Overweight
+37,Female,157,73,Very active,Muscle Gain,Overweight
+34,Female,169,99,Very active,Muscle Gain,Overweight
+24,Female,165,89,Moderately active,Maintenance,Overweight
+44,Female,172,117,Moderately active,Maintenance,Overweight
+54,Female,191,101,Very active,Maintenance,Overweight
+47,Male,195,64,Very active,Maintenance,Overweight
+29,Male,198,61,Very active,Muscle Gain,Overweight
+46,Female,168,55,Lightly active,Muscle Gain,Overweight
+51,Male,169,94,Lightly active,Muscle Gain,Overweight
+32,Female,186,47,Sedentary,Muscle Gain,Overweight
+57,Male,157,84,Very active,Maintenance,Overweight
+28,Female,195,108,Very active,Weight Loss,Overweight
+27,Female,188,72,Sedentary,Weight Loss,Overweight
+49,Male,185,70,Lightly active,Maintenance,Fit
+55,Female,173,66,Lightly active,Maintenance,Fit
+28,Male,177,90,Very active,Muscle Gain,Overweight
+55,Male,159,84,Very active,Muscle Gain,Overweight
+52,Female,193,104,Lightly active,Maintenance,Overweight
+18,Male,180,101,Moderately active,Muscle Gain,Overweight
+51,Male,158,66,Sedentary,Weight Loss,Overweight
+35,Female,161,84,Sedentary,Maintenance,Overweight
+32,Female,164,107,Moderately active,Maintenance,Overweight
+34,Male,181,53,Very active,Muscle Gain,Underweight
+38,Male,167,117,Moderately active,Muscle Gain,Overweight
+24,Male,184,92,Lightly active,Maintenance,Overweight
+21,Male,174,106,Very active,Weight Loss,Overweight
+34,Male,198,50,Moderately active,Weight Loss,Underweight
+43,Male,163,98,Very active,Maintenance,Overweight
+42,Female,162,76,Moderately active,Muscle Gain,Fit
+55,Male,177,97,Lightly active,Maintenance,Overweight
+20,Female,194,66,Very active,Weight Loss,Overweight
+25,Female,157,106,Sedentary,Muscle Gain,Overweight
+49,Female,184,54,Moderately active,Maintenance,Underweight
+48,Female,178,113,Lightly active,Weight Loss,Overweight
+58,Male,180,66,Very active,Weight Loss,Overweight
+59,Male,199,93,Very active,Weight Loss,Overweight
+53,Male,182,45,Moderately active,Weight Loss,Underweight
+41,Male,157,67,Lightly active,Maintenance,Fit
+30,Female,188,72,Sedentary,Weight Loss,Overweight
+19,Female,167,61,Lightly active,Maintenance,Fit
+49,Male,199,57,Moderately active,Weight Loss,Underweight
+38,Female,197,99,Sedentary,Maintenance,Overweight
+32,Female,158,96,Lightly active,Maintenance,Overweight
+40,Male,179,77,Sedentary,Weight Loss,Overweight
+18,Female,193,119,Lightly active,Weight Loss,Overweight
+32,Female,161,101,Very active,Maintenance,Overweight
+29,Female,150,86,Lightly active,Maintenance,Overweight
+56,Male,192,61,Sedentary,Muscle Gain,Overweight
+38,Male,170,84,Moderately active,Muscle Gain,Overweight
+55,Female,186,108,Moderately active,Muscle Gain,Overweight
+58,Female,198,55,Very active,Weight Loss,Underweight
+19,Male,189,72,Moderately active,Weight Loss,Fit
+36,Female,187,72,Lightly active,Muscle Gain,Fit
+54,Male,153,93,Moderately active,Muscle Gain,Overweight
+49,Male,166,104,Lightly active,Maintenance,Overweight
+52,Female,195,100,Moderately active,Weight Loss,Overweight
+35,Female,197,84,Sedentary,Maintenance,Overweight
+25,Female,173,48,Lightly active,Maintenance,Overweight
+33,Male,161,75,Very active,Maintenance,Overweight
+42,Female,183,111,Lightly active,Muscle Gain,Overweight
+59,Female,158,70,Very active,Muscle Gain,Overweight
+20,Male,173,49,Moderately active,Muscle Gain,Underweight
+33,Male,198,59,Moderately active,Weight Loss,Underweight
+43,Male,196,78,Moderately active,Maintenance,Fit
+37,Female,161,48,Moderately active,Maintenance,Underweight
+18,Female,174,110,Lightly active,Maintenance,Overweight
+38,Female,174,93,Very active,Muscle Gain,Overweight
+50,Male,187,59,Lightly active,Muscle Gain,Overweight
+32,Female,195,69,Sedentary,Weight Loss,Overweight
+22,Female,155,91,Moderately active,Maintenance,Overweight
+38,Female,177,67,Very active,Maintenance,Overweight
+27,Female,174,96,Sedentary,Maintenance,Overweight
+22,Male,194,97,Moderately active,Weight Loss,Overweight
+55,Female,178,113,Sedentary,Maintenance,Overweight
+19,Female,150,104,Moderately active,Muscle Gain,Overweight
+45,Male,193,83,Lightly active,Weight Loss,Overweight
+25,Male,177,117,Moderately active,Maintenance,Overweight
+38,Female,196,78,Moderately active,Maintenance,Fit
+42,Female,161,45,Moderately active,Muscle Gain,Underweight
+54,Female,196,45,Sedentary,Weight Loss,Overweight
+59,Male,191,65,Moderately active,Weight Loss,Fit
+55,Female,184,52,Lightly active,Maintenance,Overweight
+34,Male,175,57,Sedentary,Muscle Gain,Overweight
+31,Male,194,50,Moderately active,Muscle Gain,Underweight
+25,Female,164,98,Sedentary,Maintenance,Overweight
+48,Male,184,104,Lightly active,Weight Loss,Overweight
+40,Female,174,78,Lightly active,Maintenance,Fit
+43,Male,169,50,Lightly active,Maintenance,Overweight
+35,Female,153,61,Sedentary,Muscle Gain,Overweight
+30,Female,156,88,Moderately active,Maintenance,Overweight
+52,Male,166,79,Moderately active,Maintenance,Fit
+57,Female,173,105,Sedentary,Weight Loss,Overweight
+18,Male,184,76,Very active,Weight Loss,Overweight
+31,Female,186,112,Very active,Maintenance,Overweight
+45,Female,165,106,Very active,Weight Loss,Overweight
+45,Female,181,110,Moderately active,Maintenance,Overweight
+25,Female,173,59,Moderately active,Maintenance,Underweight
+56,Male,194,110,Very active,Maintenance,Overweight
+56,Female,191,101,Very active,Maintenance,Overweight
+27,Female,187,62,Lightly active,Weight Loss,Fit
+46,Male,188,104,Lightly active,Maintenance,Overweight
+40,Female,154,50,Very active,Muscle Gain,Underweight
+21,Male,178,67,Lightly active,Muscle Gain,Fit
+32,Female,189,117,Sedentary,Muscle Gain,Overweight
+23,Female,197,107,Moderately active,Muscle Gain,Overweight
+34,Male,181,48,Moderately active,Weight Loss,Underweight
+36,Male,154,76,Lightly active,Muscle Gain,Fit
+39,Male,150,66,Very active,Maintenance,Overweight
+30,Male,191,47,Sedentary,Maintenance,Overweight
+50,Female,167,117,Moderately active,Muscle Gain,Overweight
