@@ -16,8 +16,8 @@ const HealthStatusScreen = ({ route, navigation }) => {
         'Moderate': 1,
         'Active': 2,
       };
-      
-      const response = await axios.post('http://10.14.220.249:5000/predict', {
+      console.log("Sending this data to backend:", JSON.stringify(userData, null, 2));
+      const response = await axios.post('http://192.168.31.75:5000/predict', {
         age: parseInt(userData.age),
         gender: userData.gender === 'Male' ? 1 : 0,
         height: parseInt(userData.height),

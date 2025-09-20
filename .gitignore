@@ -1,7 +1,11 @@
-# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+# Python / Virtual Environment
+.venv/
+__pycache__/
+*.pyc
 
-#Project Report
+# Project Report
 Ai Project.docx
+
 # dependencies
 node_modules/
 
@@ -36,3 +40,8 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# Media and report files
+*.docx
+*.mp4
+*.pdf
