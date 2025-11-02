@@ -17,7 +17,7 @@ const HealthStatusScreen = ({ route, navigation }) => {
         'Active': 2,
       };
       console.log("Sending this data to backend:", JSON.stringify(userData, null, 2));
-      const response = await axios.post('http://192.168.31.75:5000/predict', {
+      const response = await axios.post('https://fitstart-8tfc.onrender.com/predict', {
         age: parseInt(userData.age),
         gender: userData.gender === 'Male' ? 1 : 0,
         height: parseInt(userData.height),
