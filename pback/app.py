@@ -1,10 +1,10 @@
 from flask import Flask, request, jsonify
-from flask_cors import CORS  # <-- Added this back
+from flask_cors import CORS
 import joblib
 import pandas as pd
 
 app = Flask(__name__)
-CORS(app)  # <-- And initialized it here
+CORS(app)
 
 # --- Load the Machine Learning Artifacts ---
 try:
@@ -18,15 +18,24 @@ except FileNotFoundError as e:
 
 # --- Define Mappings for Categorical Data ---
 GENDER_MAP = {'Male': 1, 'Female': 0}
-# NOTE: I've updated these maps to better match standard labels
+# NOTE: Make sure the text here (e.g., 'Sedentary')
+# exactly matches what users are typing in the app.
 ACTIVITY_MAP = {
-    'Sedentary': 3, 
-    'Lightly active': 1, 
-    'Moderately active': 2, 
-    'Very active': 4, 
-    'Extra active': 0
+    'Sedentary': 3,
+    'Lightly active': 1,
+    'Moderately active': 2,
+    'Very active': 4,
+    'Extra active': 0,
+    # Added common variations just in case
+    'Moderate': 2,
+    'Active': 4,
 }
-GOAL_MAP = {'Weight Loss': 2, 'Muscle Gain': 1, 'General Fitness': 0}
+GOAL_MAP = {
+    'Weight Loss': 2,
+    'Muscle Gain': 1,
+    'General Fitness': 0,
+    'Muscle gain': 1, # Added common variation
+}
 
 
 @app.route('/predict', methods=['POST'])
@@ -39,23 +48,30 @@ def predict():
         print(f"Received data: {data}")
 
         # Calculate BMI
-        height_m = data['height'] / 100
-        bmi = data['weight'] / (height_m ** 2)
+        height_m = float(data['height']) / 100
+        bmi = float(data['weight']) / (height_m ** 2)
 
         # Map categorical features to their integer codes
         gender_code = GENDER_MAP.get(data['gender'])
-        activity_code = ACTIVITY_MAP.get(data['activity'])
+        
+        # --- THIS IS THE FIX ---
+        # Changed data['activity'] to data['activityLevel']
+        activity_code = ACTIVITY_MAP.get(data['activityLevel'])
+        # --- END OF FIX ---
+        
         goal_code = GOAL_MAP.get(data['goal'])
         
         # Create a pandas DataFrame with the correct feature order
         features = pd.DataFrame([[
-            data['age'],
+            float(data['age']),
             gender_code,
             activity_code,
             goal_code,
             bmi
         ]], columns=['Age', 'Gender', 'Activity Level', 'Goal', 'BMI'])
         
+        print(f"Preprocessed features: \n{features}")
+
         # Scale the features
         scaled_features = scaler.transform(features)
 
@@ -75,4 +91,5 @@ def predict():
 
 
 if __name__ == '__main__':
+    # This part is only for local testing, Render uses the gunicorn command
     app.run(host='0.0.0.0', port=5000, debug=True)
