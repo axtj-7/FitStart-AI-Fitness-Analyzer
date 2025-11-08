@@ -55,8 +55,8 @@ def predict():
         gender_code = GENDER_MAP.get(data['gender'])
         
         # --- THIS IS THE FIX ---
-        # Changed data['activity'] to data['activityLevel']
-        activity_code = ACTIVITY_MAP.get(data['activityLevel'])
+        # Changed data['activity'] to data['activity_level']
+        activity_code = ACTIVITY_MAP.get(data['activity_level'])
         # --- END OF FIX ---
         
         goal_code = GOAL_MAP.get(data['goal'])
